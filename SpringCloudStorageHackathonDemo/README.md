@@ -18,7 +18,7 @@ Notes:
 - Make sure to specify service name in src\main\appengine\app.yaml. As of now, it is app-engine-sb-hackdemo. You may configure it. 
 
 To deploy on App Engine:
-- Run below maven goal
+- Run below maven goal from Eclipse
 
    clean package appengine:deploy
 
