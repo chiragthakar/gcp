@@ -19,6 +19,7 @@ Notes:
 
 To deploy on App Engine:
 - Run below maven goal
+
    clean package appengine:deploy
 
 
